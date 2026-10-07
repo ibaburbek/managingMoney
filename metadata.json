@@ -1,0 +1,8 @@
+{
+  "name": "Money Quest - IGCSE 0580 Managing Money",
+  "description": "A single-player educational RPG board game for Cambridge IGCSE Mathematics 0580 Chapter 17 Managing Money, featuring earnings, interest, profit and loss, discounts, and property investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
